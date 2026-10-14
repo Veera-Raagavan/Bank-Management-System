@@ -269,7 +269,7 @@ New Balance: ₹45000.00
 
 ## Author
 
-**Your Name**
+**Veera Raagavan**
 CBSE Class 12 Computer Science Project
 
 ---
